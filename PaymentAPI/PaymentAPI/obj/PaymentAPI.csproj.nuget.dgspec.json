@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 16\\CRUD with Net Core API\\Project\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {}
+    "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 17\\CRUD with Net Core API\\Payment_CopyPaste\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 16\\CRUD with Net Core API\\Project\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {
+    "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 17\\CRUD with Net Core API\\Payment_CopyPaste\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 16\\CRUD with Net Core API\\Project\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+        "projectUniqueName": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 17\\CRUD with Net Core API\\Payment_CopyPaste\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
         "projectName": "PaymentAPI",
-        "projectPath": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 16\\CRUD with Net Core API\\Project\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+        "projectPath": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 17\\CRUD with Net Core API\\Payment_CopyPaste\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
         "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 16\\CRUD with Net Core API\\Project\\PaymentAPI\\PaymentAPI\\obj\\",
+        "outputPath": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 17\\CRUD with Net Core API\\Payment_CopyPaste\\PaymentAPI\\PaymentAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

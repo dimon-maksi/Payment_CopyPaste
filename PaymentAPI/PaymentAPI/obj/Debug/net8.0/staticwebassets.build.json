@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZsOJuE1g4jkj+kUCeldkqwTsKm306dsaUMjFGbpdGoo=",
+  "Hash": "lAxdCCmuteNfhrdBaLGaX0pyapuOzuoWXSWCvVgiacU=",
   "Source": "PaymentAPI",
   "BasePath": "_content/PaymentAPI",
   "Mode": "Default",
@@ -47,10 +47,10 @@
       "OriginalItemSpec": "C:\\Users\\dmitr\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.2\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 16\\CRUD with Net Core API\\Project\\PaymentAPI\\PaymentAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PaymentAPI.styles.css",
+      "Identity": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 17\\CRUD with Net Core API\\Payment_CopyPaste\\PaymentAPI\\PaymentAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PaymentAPI.styles.css",
       "SourceId": "PaymentAPI",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 16\\CRUD with Net Core API\\Project\\PaymentAPI\\PaymentAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 17\\CRUD with Net Core API\\Payment_CopyPaste\\PaymentAPI\\PaymentAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PaymentAPI",
       "RelativePath": "PaymentAPI.styles.css",
       "AssetKind": "All",
@@ -63,7 +63,7 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 16\\CRUD with Net Core API\\Project\\PaymentAPI\\PaymentAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PaymentAPI.styles.css"
+      "OriginalItemSpec": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 17\\CRUD with Net Core API\\Payment_CopyPaste\\PaymentAPI\\PaymentAPI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PaymentAPI.styles.css"
     }
   ]
 }

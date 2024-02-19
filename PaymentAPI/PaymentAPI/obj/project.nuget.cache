@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "GU4oyB0dBIFLmlfZnkRkMyCTciM+wf+msEL/7H2BiB7fByq9YVSP5v9BFa5FA9X8C5zQ3Uvo2+EhR457DFPuZw==",
+  "dgSpecHash": "OacS0FelDn3ziMpXdKXtKvn6g6+c+TEEpgopD0XyZAcj1TRt875QEfV5VPS0f5JZLN83kgWPnMmscL8ha9yZFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 16\\CRUD with Net Core API\\Project\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
+  "projectFilePath": "C:\\Users\\dmitr\\Документы\\ASP.NET\\Test\\Angular 17\\CRUD with Net Core API\\Payment_CopyPaste\\PaymentAPI\\PaymentAPI\\PaymentAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dmitr\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\dmitr\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
